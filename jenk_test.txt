@@ -1,4 +1,3 @@
-y
- comeon with docker online with jenkins int
+on with docker online with jenkins int
 addded even more to build again
 this is to test that jenkins builds & runs tests from push commands
