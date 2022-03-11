@@ -36,3 +36,4 @@ spec:
         image: gcr.io/lbg-210222/api-darrelle:latest
         ports:
         - containerPort: 5000
+##ignore
